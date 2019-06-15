@@ -12,6 +12,14 @@ body {
     margin-top:24px;
 }
 
+.label-header{
+    color: brown
+}
+
+.menu-price{
+    font-weight: bold
+}
+
 .group-menu ul{
     list-style: none
 }
